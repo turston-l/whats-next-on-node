@@ -1,1 +1,1 @@
-### WhatsNextOn Book Management Application built with Node/Express/MongoDB
+### WhatsNextOn Book Management Application built with Node/Express/MongoDB and
